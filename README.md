@@ -1,7 +1,8 @@
-# Fundamentals of Data Science Source Code
-Public Repository for Data Science Final Project
+# Fundamentals of Data Science x Basic Statistics Source Code
+Public Repository for Fundamentals of Data Science (COMP6784001) x Basic Statistics (STAT6171001) Final Project
 
-# Title: The Impact of Short-Form Video Exposure and Academic Functioning among Indonesian Students
+# Title: The Impact of Short-Form Video Exposure and Academic Functioning among Indonesian Students\
+Link to the dataset used: https://bit.ly/4qwkyjd
 
 # Abstract:
 The widespread consumption of short-form video content on social media platforms has raised concerns regarding its potential impact on students’ attention span and academic outcomes. Short-form video platforms are designed to deliver rapid and highly engaging content, which may influence cognitive focus and learning behavior over time. This study examines the relationship between short-form video exposure, attention span, and academic performance among Indonesian students using a secondary survey dataset collected from senior high school and university students.
